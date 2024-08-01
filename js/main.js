@@ -779,9 +779,10 @@ return (() => {
 setTimeout(() => {
 new Typewriter(".typing-text", {
     strings: [
-    "Full-Stack Developer",
     "Software Developer",
-    "UI/UX Designer",
+    "AI-ML Enthusiast",
+    "Competitive Programmer",
+    "Full-Stack Developer",
     ],
     autoStart: true,
     loop: true,

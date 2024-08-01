@@ -686,16 +686,13 @@ h6 {
   margin-right: auto;
 }
 
-/*Icons - Programming Languages & Frameworks */
+/*Icons - Programming Languages */
 
-#skills .container .div-card .mongodb {
-  background-image: url("../img/icon/mongodb.png");
+#skills .container .div-card .c {
+  background-image: url("../img/icon/c.png");
 }
-#skills .container .div-card .node-js {
-  background-image: url("../img/icon/node-js.png");
-}
-#skills .container .div-card .express-js {
-  background-image: url("../img/icon/express-js.png");
+#skills .container .div-card .cpp {
+  background-image: url("../img/icon/cpp.png");
 }
 #skills .container .div-card .html {
   background-image: url("../img/icon/html-5.png");
@@ -709,41 +706,64 @@ h6 {
 #skills .container .div-card .python {
   background-image: url("../img/icon/python.png");
 }
-#skills .container .div-card .next-js {
-  background-image: url("../img/icon/next-js.png");
+#skills .container .div-card .matlab {
+  background-image: url("../img/icon/matlab.png");
 }
-#skills .container .div-card .typescript {
-  background-image: url("../img/icon/typescript.png");
+
+/*Icons - Frameworks */
+
+#skills .container .div-card .node-js {
+  background-image: url("../img/icon/node-js.png");
+}
+#skills .container .div-card .express-js {
+  background-image: url("../img/icon/express-js.png");
+}
+#skills .container .div-card .flask {
+  background-image: url("../img/icon/flask.png");
+}
+#skills .container .div-card .bootstrap {
+  background-image: url("../img/icon/bootstrap.png");
+}
+#skills .container .div-card .tensorflow {
+  background-image: url("../img/icon/tensorflow.png");
 }
 #skills .container .div-card .react-js {
   background-image: url("../img/icon/react-js.png");
 }
 
-/*Icons - Tools & Other Skills */
+/*Icons - Developer Tools */
 
 #skills .container .div-card .git {
   background-image: url("../img/icon/git.png");
 }
-#skills .container .div-card .ux-ui {
-  background-image: url("../img/icon/ui-ux.png");
+#skills .container .div-card .github {
+  background-image: url("../img/icon/github.png");
 }
-#skills .container .div-card .docker {
-  background-image: url("../img/icon/docker.png");
+#skills .container .div-card .vscode {
+  background-image: url("../img/icon/vscode.png");
 }
-#skills .container .div-card .devops {
-  background-image: url("../img/icon/devops.png");
+#skills .container .div-card .jupyter {
+  background-image: url("../img/icon/jupyter.png");
+}
+
+/*Icons - Databases */
+#skills .container .div-card .mysql {
+  background-image: url("../img/icon/mysql.png");
+}
+#skills .container .div-card .mongodb {
+  background-image: url("../img/icon/mongodb.png");
+}
+#skills .container .div-card .postgresql {
+  background-image: url("../img/icon/postgresql.png");
 }
 
 /*Icons - Languages */
 
-#skills .container .div-card .sinhala {
-  background-image: url("../img/icon/lang-si.png");
+#skills .container .div-card .hindi {
+  background-image: url("../img/icon/lang-hi.jpg");
 }
 #skills .container .div-card .english {
   background-image: url("../img/icon/lang-en.png");
-}
-#skills .container .div-card .tamil {
-  background-image: url("../img/icon/lang-ta.png");
 }
 
 .card-buttons {
@@ -1023,8 +1043,8 @@ h6 {
 .col3 .github {
   background-image: url("/img/icon/github.png");
 }
-.col3 .stack-overflow {
-  background-image: url("/img/icon/stack-overflow.png");
+.col3 .discord {
+  background-image: url("/img/icon/discord.png");
 }
 .col3 .linkedin {
   background-image: url("/img/icon/linkedin.png");
